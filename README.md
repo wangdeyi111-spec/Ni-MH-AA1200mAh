@@ -15,11 +15,14 @@ This battery contains no mercury (Hg), cadmium (Cd), or lead (Pb) in compliance 
 Instructions for Use
 1.When charging, Check the positive (+) and negative (-) direction of 
 the battery compartment to avoid short circuits. 
+
 2.Do not mix batteries of different capacities, brands, or models.
+
 3.Storage:Store in a cool, dry place.
+
 4.This battery complies with EU Battery Regulation (EU) 2023/1542 – Batteries and 
-Waste Batteries standards. 
-Please recycle according to local regulations after disposal.
+Waste Batteries standards. Please recycle according to local regulations after disposal.
+
 Warnings:
 Keep batteries away from small children.
 If a battery is swallowed or placed inside any part of the body, seek immediate medical attention.
