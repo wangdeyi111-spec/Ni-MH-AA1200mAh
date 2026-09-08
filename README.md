@@ -10,8 +10,6 @@ Serial Number/Seri numarası:B0BF0G12
 Manufacturer:Xinxiang Huabo Power Material Co., Ltd
 Address:No.486, Xinxiu Road, Xinxiang, Henan, China
 
-This battery contains no mercury (Hg), cadmium (Cd), or lead (Pb) in compliance with Regulation (EU) 2023/1542.
-
 Instructions for Use
 1.When charging, Check the positive (+) and negative (-) direction of 
 the battery compartment to avoid short circuits. 
@@ -20,17 +18,23 @@ the battery compartment to avoid short circuits.
 
 3.Storage:Store in a cool, dry place.
 
-4.This battery complies with EU Battery Regulation (EU) 2023/1542 – Batteries and 
-Waste Batteries standards. Please recycle according to local regulations after disposal.
+4.This battery complies with EU Battery Regulation (EU) 2023/1542, containing no mercury (Hg), cadmium (Cd), or lead (Pb),
+and should be recycled in accordance with local regulations after disposal.
 
-Warnings:
+WARNIGS:
+
 Keep batteries away from small children.
 If a battery is swallowed or placed inside any part of the body, seek immediate medical attention.
 Ensure ventilation when charging.Keep batteries away from flammable materials.
+
 DO NOT disassemble, modify, or repair the battery.
+
 DO NOT short-circuit the battery terminals.
+
 DO NOT expose the battery to fire, heat above 60°C (140°F), or water.
+
 DO NOT use the battery if it is damaged, leaking, or swollen.
+
 DO NOT put the battery in a microwave oven or pressurized container.
 
 Battery Disposal & Recycling Information (EU WEEE & Battery Directive)
